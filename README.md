@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shiraz998-portfolio.netlify.app/](https://shiraz998-portfolio.netlify.app/)
 
-- 💬 Ask me about **HTML5,CSS3,JavaScript,ReactJs**
+- 💬 Ask me about **HTML5,CSS3,JavaScript,WordPress,ReactJs**
 
 - 📫 How to reach me **shiraz998ali@gmail.com**
 
