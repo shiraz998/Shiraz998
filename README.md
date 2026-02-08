@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning New Technology *
 
-- 👨‍💻 All of my projects are available at [https://www.shirazwp.com/]
+- 👨‍💻 All of my projects are available at https://www.shirazwp.com
 
 - 💬 Ask me about **HTML5, CSS3 , WordPress, Elementor, WpBakery, Figma/XD To Pixel Perfect Design**
 
