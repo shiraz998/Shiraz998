@@ -1,17 +1,17 @@
 
 ![logo](https://github.com/shiraz998/Shiraz998/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Shiraz Ali</h1>
-<h3 align="center">A Passionate Frontend Developer from Pakistan</h3>
+<h3 align="center">A Passionate WordPress Frontend Developer from Pakistan</h3>
 
 <img align="right" src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=L-J1EFIJzlFXa-2bu5K-SqOT0PXYAaPZgXxnpneoF0U" alt="images" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiraz998&label=Profile%20views&color=0e75b6&style=flat" alt="shiraz998" /> </p>
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning New Technology *
 
-- 👨‍💻 All of my projects are available at [https://shiraz998-portfolio.netlify.app/](https://shiraz998-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://www.shirazwp.com/]
 
-- 💬 Ask me about **HTML5,CSS3,JavaScript,WordPress,ReactJs**
+- 💬 Ask me about **HTML5, CSS3 , WordPress, Elementor, WpBakery, Figma/XD To Pixel Perfect Design**
 
 - 📫 How to reach me **shiraz998ali@gmail.com**
 
