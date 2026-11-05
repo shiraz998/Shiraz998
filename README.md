@@ -1,5 +1,5 @@
 
-![logo](https://github.com/shiraz998/Shiraz998/blob/main/banner.shiraz.png)
+![logo](https://github.com/shiraz998/Shiraz998/blob/main/banner-shiraz.png)
 <h1 align="center">Hi 👋, I'm Shiraz Ali</h1>
 <h3 align="center">A Passionate WordPress Developer From Pakistan</h3>
 
