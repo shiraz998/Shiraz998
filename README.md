@@ -1,7 +1,7 @@
 
-![logo](https://github.com/shiraz998/Shiraz998/blob/main/gitbanner.png)
+![logo](https://github.com/shiraz998/Shiraz998/blob/main/banner.shiraz.png)
 <h1 align="center">Hi 👋, I'm Shiraz Ali</h1>
-<h3 align="center">A Passionate WordPress Frontend Developer from Pakistan</h3>
+<h3 align="center">A Passionate WordPress Developer From Pakistan</h3>
 
 <img align="right" src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=L-J1EFIJzlFXa-2bu5K-SqOT0PXYAaPZgXxnpneoF0U" alt="images" width="400">
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at https://www.shirazwp.com
 
-- 💬 Ask me about **HTML5, CSS3 , WordPress, Elementor, WpBakery, Figma/XD To Pixel Perfect Design**
+- 💬 Ask me about **HTML5, CSS3 , WordPress, Elementor, WpBakery, HTML/Figma/XD To Pixel Perfect Design**
 
 - 📫 How to reach me **shiraz998ali@gmail.com**
 
